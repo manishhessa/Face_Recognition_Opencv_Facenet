@@ -4,3 +4,11 @@ we will try to predict using live camera also
 
 
 Data Collection
+
+
+Training Sample Data
+
+
+Face Detection and recognition
+
+
